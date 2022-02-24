@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hi there 👋 I'm Pallava!
 
-<!--
-**Pallava-Joshi/Pallava-Joshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##🎓 I'm a B.E Student at Graphic Era Hill University.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as a Freelancer.
+- 🌱 I’m currently learning MERN STACK and Blockchain Development.
+- 👯 I’m looking to collaborate with anyone on any project.
+- 💬 Ask me about Web Development
+- ⚡ Fun fact: I love playing Badminton.
+          
+# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+        
+          
+<a href="https://www.linkedin.com/in/pallava-joshi-090906214/">
+    <img align="left" alt="Pallava Joshi | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp; 
+          
+<a href="https://www.instagram.com/pallavajoshi/">    
+    <img align="left" alt="Pallava Joshi | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />   
+</a> &nbsp;&nbsp; 
+        
+<a href="mailto:joshipallava@gmail.com">
+    <img align="left" alt="Pallava Joshi | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />        
+</a> &nbsp;&nbsp;           
+<br><br>
+                  
