@@ -31,8 +31,13 @@
 </p>
 <br/>
 
+## :trophy: My Github Stats:
+
 ### GitHub Contributions
 ![Pallava_Joshi GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dracula&user=Pallava-Joshi)
+
+### Most Used Langauges
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pallava-Joshi&layout=compact&theme=radical&langs_count=8)
 
         
           
