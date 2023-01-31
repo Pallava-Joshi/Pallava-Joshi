@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Pallava!
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"> I'm Pallava!
 
 ##🎓 I'm a B.E Student at Graphic Era Hill University.
 
