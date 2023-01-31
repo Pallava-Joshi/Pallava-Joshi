@@ -1,4 +1,4 @@
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"> I'm Pallava!
+<h1 >Hi there, I'm Pallava Joshi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 ##🎓 I'm a B.E Student at Graphic Era Hill University.
 
