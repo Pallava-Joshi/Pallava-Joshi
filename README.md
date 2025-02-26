@@ -1,12 +1,8 @@
 <h1 >Hi there, I'm Pallava Joshi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-##🎓 I'm a B.Tech Student at Graphic Era Hill University.
-
 - 🔭 I’m currently working as a Freelancer.
-- 🌱 I’m currently learning MERN STACK and Blockchain Development.
-- 👯 I’m looking to collaborate with anyone on any project.
-- 💬 Ask me about Web Development
-- ⚡ Fun fact: I love playing Badminton.
+- 🌱 Next, Typescript and Web3
+- 👯 I’m looking to collaborate with anyone on good project ideas.
           
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
         
