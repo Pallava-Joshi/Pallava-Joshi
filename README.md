@@ -10,10 +10,6 @@
 <a href="https://www.linkedin.com/in/pallava-joshi-090906214/">
     <img align="left" alt="Pallava Joshi | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp; 
-          
-<a href="https://www.instagram.com/pallavajoshi/">    
-    <img align="left" alt="Pallava Joshi | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />   
-</a> &nbsp;&nbsp; 
         
 <a href="mailto:joshipallava@gmail.com">
     <img align="left" alt="Pallava Joshi | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />        
@@ -30,7 +26,6 @@
 ## :trophy: My Github Stats:
 
 ### GitHub Contributions
-![Pallava_Joshi GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dracula&user=Pallava-Joshi)
 
 ### Most Used Langauges
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pallava-Joshi&layout=compact&theme=radical&langs_count=8)
