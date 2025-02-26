@@ -2,20 +2,7 @@
 
 - 🔭 I’m currently working as a Freelancer.
 - 🌱 Next, Typescript and Web3
-- 👯 I’m looking to collaborate with anyone on good project ideas.
-          
-# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
-        
-          
-<a href="https://www.linkedin.com/in/pallava-joshi-090906214/">
-    <img align="left" alt="Pallava Joshi | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp; 
-        
-<a href="mailto:joshipallava@gmail.com">
-    <img align="left" alt="Pallava Joshi | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />        
-</a> &nbsp;&nbsp;           
-<br><br>
-                  
+- 👯 I’m looking to collaborate with anyone on good project ideas.                  
 
  ## 🧰 Languages and Tools:       
 
@@ -24,8 +11,6 @@
 <br/>
 
 ## :trophy: My Github Stats:
-
-### GitHub Contributions
 
 ### Most Used Langauges
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pallava-Joshi&layout=compact&theme=radical&langs_count=8)
